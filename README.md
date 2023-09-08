@@ -1,7 +1,6 @@
 ## Hi there 👋, I am Anton
 
 ## I am a beginner Front-end developer 👀
-- 💪 With great enthusiasm I comprehend the lessons of Yandex Practicum.
 - 🎉I love cycling and cross-country skiing.
 - 🥅 I am constantly learning something new.
 - ⚡ After training, I plan to get a job as a front-end developer.
