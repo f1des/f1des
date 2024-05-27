@@ -1,10 +1,10 @@
 ## Hi there 👋, I am Anton
 
-## I am a beginner Front-end developer 👀
+## I am a beginner Web developer 👀
 - 🎉I love cycling and cross-country skiing.
 - 🥅 I am constantly learning something new.
-- ⚡ After training, I plan to get a job as a front-end developer.
-- 📫 How to reach me ...
+- ⚡ In parallel, I work as a system administrator..
+- 📫 How to reach me - tg: @f1dess
 
 ### Languages and Tools:
 
