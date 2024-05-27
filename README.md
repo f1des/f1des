@@ -14,6 +14,9 @@
 <img align="left" alt="Figma" width="26px" src="https://uploads-ssl.webflow.com/5e3c7a535a0b8ce5f3926ef8/5f0899e05c693d79cdf66e91_figma.png"/>
 <img align="left" alt="Photoshop" width="26px" src="https://i.pinimg.com/originals/6c/28/82/6c2882378809013a05befc2da4188e70.png"/>
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"/>
+<img align="left" alt="PHP Storm" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/PhpStorm_Icon.svg/1200px-PhpStorm_Icon.svg.png"/>
+
+
 
 &nbsp;
 
